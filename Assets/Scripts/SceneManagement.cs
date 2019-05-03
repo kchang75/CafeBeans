@@ -9,8 +9,16 @@ public class SceneManagement : MonoBehaviour
     	SceneManager.LoadScene("MenuScene");
     }
 
+    public void LoadGallery(){
+    	SceneManager.LoadScene("ArtGallery");
+    }
+
     public void LoadGame(){
-    	SceneManager.LoadScene("MainGame");
+        SceneManager.LoadScene("Main_Test");
+    }
+
+    public void LoadCoffee(){
+        SceneManager.LoadScene("CoffeeMiniGame");
     }
 
     public void LoadCredits(){

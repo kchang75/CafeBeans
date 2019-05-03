@@ -37,41 +37,156 @@ title: menu
 	<<hideGwen YarnCommandManager>>
 	[[willow]]
 ->Exit
-	Cool have a nice day.
+	Cool, have a nice day.
 	<<LoadScene YarnCommandManager MenuScene>>
 ===
 title: gwen
 ---
-Gwen: So you're interested in me, huh?
-Gwen: Are you some kind of creep?
-Gwen: Just get me my Venti Iced Skinny Hazelnut Macchiato, Sugar-Free Syrup, Extra Shot, Light Ice, No Whip.
+<<setsprite Gwen happy>>
+Gwen: Hey there, my name is Gwen. And what would yours be, cutie?
+"Aren’t you in middle school? That’s a bit too young to be flirting with your local barista."
 
 <<setsprite Gwen angry>>
-
-Gwen: God, I'm going to be late to cheer practice with your crappy service.
-Gwen: I want to talk to the manager.
+Gwen: Hey! I’m a high school senior ok?! Can’t you tell? 
 
 <<setsprite Gwen sad>>
+Gwen: Why does everyone think I’m in middle school? Is the makeup not working? Ugh I hate this!
+"Um, you know I was just kidding right?" 
 
-Gwen: Ugh, you mean you're in charge here?
-Gwen: Whatever.
+<<setsprite Gwen surprised>>
+Gwen: Oh. Psh of course I knew.
 
+<<setsprite Gwen neutral>>
+Gwen:  Anyways, I want a Venti Iced Skinny Hazelnut Macchiato, Sugar-Free Syrup, Extra Shot, Light Ice, No Whip.
+
+<<setsprite Gwen angry>>
+Gwen: And make it fast cuz I gotta go to school for cheer practice before class.
+Gwen: I’ve gone to about every other coffee shop around town and they never get my order right.
+Gwen: And I’ve been going too cranky to school due to my lack of caffeine just because of this mistake. So, hurry. 
+
+<<setsprite Gwen surprised>>
+Gwen: Oh, wow you actually got it exactly how I ordered!
+Gwen: I usually have to talk to the manager at most coffee shops because their employees never get it right!
+Gwen: Like come on it’s not that hard!! 
+
+<<setsprite Gwen happy>>
+Gwen: Anyways I think I found my new favorite place!
+
+<<setsprite Gwen neutral>>
 [[menu]]
 
 ===
 title: mike
 ---
-Mike: Don't talk to me.
 
+<<setsprite Mike neutral>>
+Mike: Mornin'.
+Mike: This place seems new. Is it?
+
+<<setsprite Mike happy>>
+Mike: Wow, well, welcome to the neighborhood.
+
+<<setsprite Mike surprised>>
+Mike: Oh right! My order...
+
+<<setsprite Mike neutral>>
+Mike: Could I get a black tea latte? Thanks.
+Mike: Uh... so, I noticed you have a beetle problem with the flowers out front...
+Mike: They're pretty damaging pests in the garden. I could take them off your hands for you... free of charge.
+
+"Uh... Sure, why not?"
+
+<<setsprite Mike happy>>
+Mike: Awesome!
+Mike: Y'know, beetles are the largest order of animals, protocoleptera fossil records say...
+
+<<setsprite Mike neutral>>
+Mike: Uh...
+
+<<setsprite Mike sad>>
+Mike: I'll stop myself before I start rambling.
+
+<<setsprite Mike neutral>>
+Mike: Just the drink please.
+
+"Here you go. Enjoy your latte!"
+
+Mike: ...
+
+<<setsprite Mike happy>>
+Mike: Thanks, you too!
+
+<<setsprite Mike neutral>>
+Mike: ...
+
+<<setsprite Mike angry>>
+Mike: Wait. Shit...
+
+<<setsprite Mike neutral>>
 [[menu]]
 ===
 title: richard
 ---
-Richard: I'm a dick.
+Richard: Good morning. One black coffee with three expresso shots please. 
+Richard: I know that's a lot. It was a long night yesterday and it's going to be a long day today. Got an engineering exam at 2:00. 
+"You're a bit late today. Did your 8:00 am class get cancelled?""
+
+<<setsprite Richard happy>>
+Richard: Just between you and me... I skipped. I know I shouldn't, but it feels so good.
+Richard: Just throwing away my responsibilities and sleeping. It's one of the only things that makes me feel real joy anymore. 
+
+<<setsprite Richard sad>>
+Richard: The workload is just too much, every single waking moment is spent on school somehow.
+Richard: I can say that I'm one of the most hardworking people in the department, but it's just burnt me out.
+Richard: The mere sight of that accursed engineering textbook ruins my whole day. 
+
+<<setsprite Richard angry>>
+Richard: A bit of it is my fault. I'm a perfectionist so things take twice as long as they should.
+Richard: But I can't help it. My parents cursed me to be this way. Always pushing me to do better and my best was never enough.
+Richard: My life would've been so much easier if they had just been... normal.
+
+<<setsprite Richard neutral>>
+Richard: But I guess it's a blessing and a curse.
+Richard: It takes so much out of me but I'm more successful than everyone else. 
+"Here you go. Three expresso shots, be careful, it's..."
+
+<<setsprite Richard suprised>>
+Richard: Ah! Ouch!
+"...hot."
+
+<<setsprite Richard neutral>>
 
 [[menu]]
 ===
 title: willow
 ---
-Willow: lmao what
+<<setsprite Willow neutral>>
+Willow: Hi, 11 black coffees; one with vanilla cream and 2 shots of espresso.
+"That’s more espresso than you usually get. Another late night?"
+
+<<setsprite Willow sad>>
+Willow: Yeah, the boss dropped a workload on me last minute.
+Willow: I was up ‘till 4:30 at the office last night getting all of his work done.
+
+<<setsprite Willow angry>>
+Willow: I swear I do so much for this company and don’t get the pay for it.
+Willow: It feels like they lowered the pay just for me since I’m only part-time.
+
+<<setsprite Willow sad>>
+Willow: It’s been a bit tough the past few days, there seems to be no end in sight for the busy work they keep assigning me.
+
+<<setsprite Willow neutral>>
+Willow: I’m just glad I don’t have to wait much longer to see the Jefferson’s kids.
+
+<<setsprite Willow happy>>
+Willow: It feels like it’s been forever since I last saw them. I’m so excited to show them the new games I’ll bring when I babysit them!
+"Here’s your order, would you like help this time getting all of this to your car?"
+
+<<setsprite Willow neutral>>
+Willow: Nah, I think I’m getting the hang of this. But thanks for the offer.
+
+<<setsprite Willow suprised>>
+Willow: Oh shoot, I’m gonna be late. Gotta go, see ya tomorrow!
+
+<<setsprite Willow neutral>>
 [[menu]]

@@ -12,12 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/CreditsScene.unity
     guid: 32787909671471d45b637e3e22f309ea
   - enabled: 1
-    path: Assets/Scenes/MainGame.unity
-    guid: c89fdf205a38c9d49823436f7942a49d
-  - enabled: 1
-    path: Assets/Scenes/CoffeeMinigame.unity
-    guid: 946f5817dde05644199a61ca5f8bcef1
+    path: Assets/Scenes/IntroTest.unity
+    guid: e128e8d22ce9dc2499c21946106ee945
   - enabled: 1
     path: Assets/Scenes/ArtGallery.unity
     guid: 1cc893909297e0c4ea2de8b391006286
+  - enabled: 1
+    path: Assets/Scenes/CoffeeMinigame.unity
+    guid: 946f5817dde05644199a61ca5f8bcef1
   m_configObjects: {}

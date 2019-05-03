@@ -1,32 +1,56 @@
 title: Start
 ---
+"Thanks for your business, I'll see you tomorrow!" I called out to the person leaving the shop.
+As the last customer of the morning left I sat down at a stool behind the counter and poured myself a cup of coffee.  
+I gaze out the window at the beautiful day, while the cars methodically zoom past.
+I think to myself, "There isn't any other place I'd rather be right now"." 
+Well enough of that, break time's over. The lunch rush is going to start piling in soon. 
+I slowly start refilling the syrup bottles, taking extra care not to spill any of the sticky nightmare goo that's known as caramel syrup.
+I thoroughly wash out the brown-stained coffee pots and blenders.
+Grabbing some boxes from the drawers under the counter, I restock the disposable coffee cups, straws, and napkins.
+And finally, my least favorite part... 
+Cleaning. 
+I never understood how people could be so messy when just drinking a cup of coffee.
+Despite only four people coming in this morning there's enough mess to make me cringe.
+All you have to do is put a plastic lid or straw to your lips and sip, but apparently that's too much for some people to handle.
+Napkins, sugar packets, and pieces of straw wrappers litter the ground.
+Spilled coffee and rings of condensation water from the bottom of cold drinks stain the hardwood tables. 
+"Oh well, not every job is perfect I guess." 
+I did not realize then how right I was.
 
-The familiar bell of the door opening breaks me out of my spiraling thoughts.
-With a feeling of dread far greater than any I had ever experienced I realize it's one of my regulars.
+As I move to sweep the entryway, I noticed something odd on the floor.
 
-<<setsprite Willow neutral>>
-Willow: Good morning.
+<<setsprite Background phone>>
+In the shadow of one of the chairs lied an old flip phone.
+It was obviously old, beat up, and clearly cheap, with the paint of the numbers on the keypad have almost completely worn off.
+Curious, I opened to phone to find it had no password, the home menu's background was a default, and there were no contacts, messages or notifications whatsoever.
+The phone seemed completely devoid of use besides the disintegrating paint on the buttons.
+I thought I should probably find out who this belongs to... It's hard to go without your phone these days.
+I hated that I had to do this, but it seemed that the only way to get any information about the owner's identity was to look through their photos. 
+The only customers that came in today were the regulars, so if there was a selfie or something, I'd be able to recognize them. 
+Scrolling through the dimly lit screen, I finally reached the adorable small old-school digital camera icon labeled "Photos."
+...
 
--> Silence
-	<<setsprite Willow angry>>
-	Willow: I said... good morning.
-	PC: A-ah good morning Willow. Sorry, I just didn't get a lot of sleep last night.
-	Willow: Oh don't worry about it, I understand. Running this place all by yourself must be a lot of work. Being your own boss comes with its downsides doesn't it?
-	PC: Haha, yeah... Anyway what can I get you?
--> Good morning
-	PC: What can I get you today?
+<<setsprite Background phoneNoir>>
+...
+I felt a shiver, like a cold finger running down my spine.
+"What the hell is this." 
+Picture after picture, different shots of a dead woman. 
+No... Multiple dead women. 
+Dozens of stab wounds punctured in their chests, faces so utterly mutilated that they weren't recognizable anymore.
+Picture after picture of these horrifying, awful scenes; different angles, close-ups of the stab wounds, as if whoever took them wanted to capture the essence of the moment and relive it over and over... 
+I feel sick.
+I flashed back to a seemingly insignificant moment a few days before.
+I had turned on the radio while I was driving to work, and before changing to my favorite music station, the announcer stated, "...third murder has occurred by what the police are what now considering a seria-"
+Oh god. 
+Oh god oh god oh god. 
+There were three announced murders, but... there are four women in these photos.
+Was this the same killer?
+What... why...
+Is this...
+As I rack my shocked brain for answers, one thought comes to my mind.
 
-<<setsprite Willow neutral>>
-Willow: Could I have a single black coffee with vanilla syrup and five regular black coffees?
-PC: Of course, I'll get right on that.
+<<setsprite Background coffeeshopNoir>>
+This phone belongs to the killer, and they're a regular in my coffee shop.  
 
-<<setsprite Willow grayed>>
-Willow is an intern at a local business office a few blocks down and as the lowest on the totem pole, her boss sends her to buy coffee for the office every morning.
-She seems... so normal, could she be possible of such a monstrosity? Would the polite and professional Willow that I know brutally maim someone until they were unrecognizable?
-Well I guess the truth is, I don't really know her. I might know her name, workplace, and general disposition, but I don't know what makes her tick.
-I don't know what causes her stress in her everyday life, I don't know how she views other people, and I don't know the depths of her hatred.
-I don't truly know any of my regulars, but if I want to catch this psychopath I'm going to need to find out.
-But I have to be careful in how I act. If this killer is as dangerous as I think they are, there's no telling how any one of my actions could affect them, or end up coming back to haunt me.
-
-
-===
+<<LoadScene YarnCommandManager MenuScene>>

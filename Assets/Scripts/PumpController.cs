@@ -19,18 +19,12 @@ public class PumpController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
-        {
-        	clicked = true;
-        	goingDown = true;
-        }
-
         if (clicked)
         {
         	if (goingDown)
 			{
 				transform.Translate (Vector2.down * speed * Time.deltaTime);
-				if (startingY - transform.position.y < 0)
+				if (transform.position.y < 1.4)
 				{
 					goingUp = true;
 					goingDown = false;
@@ -39,7 +33,7 @@ public class PumpController : MonoBehaviour
 			else if (goingUp)
 			{
 				transform.Translate (Vector2.up * speed * Time.deltaTime);
-				if (startingY - transform.position.y > 2)
+				if (transform.position.y > 2.6)
 				{
 					goingUp = false;
 				}
@@ -51,5 +45,10 @@ public class PumpController : MonoBehaviour
         }
     }
 
+    void OnMouseDown()
+    {
+        clicked = true;
+        goingDown = true;
+    }
 
 }
