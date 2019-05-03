@@ -1,0 +1,77 @@
+title: Start
+---
+Welcome to Cafe Beans!
+Here's an introduction to every character in the game!
+Who are you interested in?
+[[menu]]
+===
+title: menu
+---
+<<showGwen YarnCommandManager>>
+<<showMike YarnCommandManager>>
+<<showRichard YarnCommandManager>>
+<<showWillow YarnCommandManager>>
+
+->Gwen
+	Let's look at Gwen's character!
+	<<hideMike YarnCommandManager>>
+	<<hideRichard YarnCommandManager>>
+	<<hideWillow YarnCommandManager>>
+	[[gwen]]
+->Mike
+	Let's look at Mike's character!
+	<<hideGwen YarnCommandManager>>
+	<<hideRichard YarnCommandManager>>
+	<<hideWillow YarnCommandManager>>
+	[[mike]]
+->Richard
+	Let's look at Richard's character!
+	<<hideMike YarnCommandManager>>
+	<<hideGwen YarnCommandManager>>
+	<<hideWillow YarnCommandManager>>
+	[[richard]]
+->Willow
+	Let's look at Willow's character!
+	<<hideMike YarnCommandManager>>
+	<<hideRichard YarnCommandManager>>
+	<<hideGwen YarnCommandManager>>
+	[[willow]]
+->Exit
+	Cool have a nice day.
+	<<LoadScene YarnCommandManager MenuScene>>
+===
+title: gwen
+---
+Gwen: So you're interested in me, huh?
+Gwen: Are you some kind of creep?
+Gwen: Just get me my Venti Iced Skinny Hazelnut Macchiato, Sugar-Free Syrup, Extra Shot, Light Ice, No Whip.
+
+<<setsprite Gwen angry>>
+
+Gwen: God, I'm going to be late to cheer practice with your crappy service.
+Gwen: I want to talk to the manager.
+
+<<setsprite Gwen sad>>
+
+Gwen: Ugh, you mean you're in charge here?
+Gwen: Whatever.
+
+[[menu]]
+
+===
+title: mike
+---
+Mike: Don't talk to me.
+
+[[menu]]
+===
+title: richard
+---
+Richard: I'm a dick.
+
+[[menu]]
+===
+title: willow
+---
+Willow: lmao what
+[[menu]]

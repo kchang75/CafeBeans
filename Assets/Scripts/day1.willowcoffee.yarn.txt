@@ -1,0 +1,56 @@
+title: Willow Coffee
+---
+<<if $coffee == 0>>
+	[[good]]
+<<else>>
+	[[bad]]
+<<endif>>
+
+===
+title: good
+---
+PC: Here's your coffee. 5 regular black coffees and 1 black with vanilla syrup.
+Willow: Oh thank you.
+She takes a quick sip of her coffee and a slight smile appears on her face. 
+This might be my chance to investigate, she might be willing to reveal more if she's in a good mood. 
+PC: Would it be possible for you to stay and chat for a bit? It gets awfully lonely in here sometimes.
+Willow: I have to get back to work, but a few minutes couldn't hurt. I don't particularly mind being away from that place either. 
+Let's start simple and harmless. 
+PC: How has work been going?
+Willow: Oh you know, the same as always.
+As yes how very insightful and intriguing, just what I wanted to hear.
+"The same as always.", a single phrase that provides the minimum amount of detail and shuts down any further socially acceptable inquiry.
+It could mean anything from "I love my job and everything's great" to "I hate my coworkers so much that every Wednesday night I sneak around back-alleys finding unsuspecting women so I can rip their faces open in order to relieve my stress."
+And any more probing would prove pushy, rude, and awkward. 
+
+->Define same as always.
+	Willow: Not great, not terrible. Just something you have to do. 
+	[[Does it stress you out?||stress]]
+	[[Is it hard being an intern?||intern]]
+->How are you doing today?
+	Willow: Alright. 
+
+===
+title: stress
+---
+Willow: "All jobs are stressful in some way or another. It's nothing I can't handle."
+
+->What are your coworkers like?
+	Seeing that all the victims are female and around Willow's age, maybe she has problems with a female coworker who the victims remind her of. 
+	Willow: They're fine. They all have decent work ethics and know what they're doing.
+	[[So...not great, huh?|great]]
+	[[Do you have any friends there?||friends]]
+	[[How do they treat you? Must be tough being the new guy.||noob]]
+->What is your boss like
+	Willow: ...Tolerable.
+	[[exit]]
+
+===
+
+title: hard
+---
+Willow: Sometimes. As I'm the lowest there, others sometimes give me tasks which no one else wants to do.
+
+[[So like walking three blocks to get coffee every morning?|So like walking three blocks]]
+[[Does it stress you out?|Does it stress you out]]
+===

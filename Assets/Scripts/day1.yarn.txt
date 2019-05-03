@@ -1,0 +1,32 @@
+title: Start
+---
+
+The familiar bell of the door opening breaks me out of my spiraling thoughts.
+With a feeling of dread far greater than any I had ever experienced I realize it's one of my regulars.
+
+<<setsprite Willow neutral>>
+Willow: Good morning.
+
+-> Silence
+	<<setsprite Willow angry>>
+	Willow: I said... good morning.
+	PC: A-ah good morning Willow. Sorry, I just didn't get a lot of sleep last night.
+	Willow: Oh don't worry about it, I understand. Running this place all by yourself must be a lot of work. Being your own boss comes with its downsides doesn't it?
+	PC: Haha, yeah... Anyway what can I get you?
+-> Good morning
+	PC: What can I get you today?
+
+<<setsprite Willow neutral>>
+Willow: Could I have a single black coffee with vanilla syrup and five regular black coffees?
+PC: Of course, I'll get right on that.
+
+<<setsprite Willow grayed>>
+Willow is an intern at a local business office a few blocks down and as the lowest on the totem pole, her boss sends her to buy coffee for the office every morning.
+She seems... so normal, could she be possible of such a monstrosity? Would the polite and professional Willow that I know brutally maim someone until they were unrecognizable?
+Well I guess the truth is, I don't really know her. I might know her name, workplace, and general disposition, but I don't know what makes her tick.
+I don't know what causes her stress in her everyday life, I don't know how she views other people, and I don't know the depths of her hatred.
+I don't truly know any of my regulars, but if I want to catch this psychopath I'm going to need to find out.
+But I have to be careful in how I act. If this killer is as dangerous as I think they are, there's no telling how any one of my actions could affect them, or end up coming back to haunt me.
+
+
+===

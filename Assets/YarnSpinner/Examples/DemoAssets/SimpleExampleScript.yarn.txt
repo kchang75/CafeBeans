@@ -1,0 +1,13 @@
+title: Start
+tags: 
+colorID: 0
+position: 592,181
+---
+This is a short example of a visual novel
+This is a basic demo of narration without a speaker
+-> This is an option
+    You have selected Option 1
+-> This is also an option
+	You have selected Option 2
+
+===

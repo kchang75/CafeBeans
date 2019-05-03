@@ -1,0 +1,562 @@
+title: Start
+tags: 
+colorID: 0
+position: -482,2392
+---
+"Thanks for your buisness, I'll see you tomorrow!" I called out to the person leaving the shop.
+As the last customer of the morning left I sat down at a stool behind the counter and poured myself a cup of coffee.
+As I gaze out the window at the beautiful day while the cars methodically zoom past I think to myself, "This is truly bliss isn't it." 
+Well enough of that, break time's over. I have to start preparing for the lunch rush. 
+I slowly start refilling the syrup bottles, taking extra care not to spill any of the nightmare mess that's known as caramel syrup. Next I wash out the coffee pots and blenders. Grabbing some boxes from the drawers under the counter I restock the disposable coffee cups, straws, and napkins. Finally my least favorite part. Cleaning. 
+I never understood how people could be so messy when just drinking a cup of coffee. Despite only four people coming in this morning there's enough mess to make me cringe. 
+Napkins, sugar packets, and pieces of straw wrappers litter the ground. Spilled drops of coffee and rings of water from the bottom of cold drinks stain the hardwood tables. 
+"Oh well, comes with the job I guess." 
+As I move to sweep by the entryway I notice something odd on the floor. In the shadow of one of the chairs lies an old flip phone; old, beat up, and clearly cheap, with the paint of the numbers on the keypad almost completely rubbed off. The home menu's background was a default and there were no contacts, messages or notifications. The phone seemed completely devoid of use besides the decaying paint on the buttons. 
+I should probably find out whose this is so I can return it to them as soon as possible, it's hard to go without your phone these days. I hate to do this, but it seems that the only way to get any information about the owner's identity is to look through their photos. The only customers that came in today were regulars so if there's a selfie or something I'd be able to recognize them. 
+...
+I can't breathe. 
+What the hell is this. 
+Picture after picture is different shots of a dead woman, no... multiple dead women. 
+Dozens of stab wounds in their chests and their faces so utterly mutilated that they couldn't even be considered faces anymore.
+Picture after horrifying picture of these awful scenes; different angles, close-ups of the stab wounds, as if whoever took them wanted to capture the essence of the moment and relive it over and over. 
+I flash back to a seemingly insignificant moment a few days before. I turned on the radio while I was driving to work and before changing to my favorite music station, the announcer stated, "A third murder has occured by what the police are now considering a seria-"
+Oh god. 
+Oh god oh god oh god. 
+There were three announced murders, but... there are four women in these photos. 
+What... why...
+Is this...
+As I rack my shocked brain for answers one thought comes to my mind. 
+This phone belongs to the killer, and they're a regular in my coffee shop.  
+
+Another beautiful morning. Oh how I wish yesterday's events were nothing but a bad dream. On the drive to work my terrible hypothesis was proven correct, the police found another body last night; same as the others, a young woman stabbed to death with her face utterly destroyed. Now the question is, what should I do with it? I should probably turn it into the police. But what if that's what the killer wants? What if they dropped the phone on purpose in order to frame me or set the investigation off track? What if they're testing me in some sadistic way? What if they kill me once they found out who turned it in? What if-
+The familiar bell of the door opening breaks me out of my spiraling thoughts. With a feeling of dread far greater than any I had ever experienced I realize it's one of my regulars. 
+Willow: Good morning. 
+
+[[Good Morning|Good Morning]]
+[[Silence|Silence]]
+===
+title: Silence
+tags: 
+colorID: 0
+position: -171,2605
+---
+Willow (with a smile on her face): I said... good morning. 
+PC: "A-ah good morning Willow. Sorry, I just didn't get a lot of sleep last night."
+Willow: "Oh don't worry about it, I understand. Running this place all by yourself must be a lot of work. Being your own boss comes with its downsides doesn't it?"
+Pc: "Haha, yeah... Anyway what can I get you?"
+
+[[Good Morning]]
+===
+title: Good Morning
+tags: 
+colorID: 0
+position: -647,2662
+---
+Willow: "Could I have a single black coffee with vanilla syrup and five regular black coffees?"
+PC: "Of course, I'll get right on that." 
+PC: Willow is an intern at a local buisness office a few blocks down and as the lowest on the totem pole, her boss sends her to buy coffee for the office every morning. She seems... so normal, could she be possible of such a monstrosity? Would the polite and professional Willow that I know brutally maime someone until they were unrecognizable? Well I guess the truth is, I don't really know her. I might know her name, workplace, and general disposition, but I don't know what makes her tick. I don't know what causes her stress in her everyday life, I don't know how she views other people, and I don't know the depths of her hatred. I don't truly know any of my regulars, but if I want to catch this psychopath I'm going to need to find out. But I have to be careful in how I act. If this killer is as dangerous as I think they are, there's no telling how any one of my actions could affect them, or end up coming back to haunt me. 
+
+[[Coffee Good|Willow - Good Coffee 1]]
+[[Coffee Okay|Willow - Okay Coffee 1]]
+[[Coffee Bad|Willow - Bad Coffee 1]]
+===
+title: Willow - Good Coffee 1
+tags: 
+colorID: 0
+position: -925,2923
+---
+PC: "Here's your coffee. 5 regular blacks and 1 black with vanilla syrup."
+Willow: "Oh thank you."
+She takes a quick sip of her coffee and a slight smile appears on her face. 
+This might be my chance to investigate, she might be willing to reveal more if she's in a good mood. 
+PC: "Would it be possible for you to stay and chat for a bit? It gets awfully lonely in here sometimes."
+Willow: I have to get back to work, but a few minutes couldn't hurt. I don't particularly mind being away from that place either. 
+Let's start simple and harmless. 
+PC: "How has work been going?"
+Willow: "Oh you know, the same as always."
+As yes how very insightful and intriguing, just what I wanted to hear. "The same as always.", a single phrase that provides the minimum amount of detail and shuts down any further socially acceptable inquiry. It could mean anything from "I love my job and everything's great" to "I hate my coworkers so much that every Wednesday night I sneak around back-alleys finding unsuspecting women so I can rip their faces open in order to relieve my stress". And any more probing would prove pushy, rude, and awkward. 
+
+[[Define same as always|Define same as always]]
+[[What are your coworkers like|What are your coworkers like]]
+[[What is your boss like|What is your boss like]]
+===
+title: Willow - Bad Coffee 1
+tags: 
+colorID: 0
+position: 269,3381
+---
+Pc: "Here's your coffee. 5 regular blacks and 1 black with vanilla syrup. 
+Willow: "Oh, thank you." 
+She takes a sip of the coffee and smiles at me. A cold smile devoid of any emotion, simply baring one's teeth like a wild animal. 
+Willow: "I will see you tommorrow then."
+After her brief farewell she turns and briskly walks out of the shop, slightly struggling to open the door while holding six cups of coffee. As I watch her walk down the block through the shop's clear glass door, I see her one-handedly chuck her mostly-full cup of coffee into a nearby trash can. 
+That good huh. 
+
+[[Day 2 - MC 3]]
+===
+title: Define Same as Always
+tags: 
+colorID: 0
+position: -1120,3297
+---
+Willow: "Not great, not terrible. Just something you have to do." 
+
+[[Does it stress you out?|Does it stress you out]]
+[[Is it hard being an intern?|Is it hard being an intern]]
+===
+title: What are your coworkers like
+tags: 
+colorID: 0
+position: -719,3286
+---
+Seeing that all the victims are female and around Willow's age, maybe she has problems with a female coworker which the victims remind her of. 
+Willow: They're fine. They all have decent work ethic and know what they're doing. 
+
+[[So not great, huh|So not great, huh]]
+[[Do you have any friends there?|Do you have any friends there?]]
+[[How do they treat you? It must be hard being the new guy.|How do they treat you?]]
+===
+title: What is your boss like
+tags: 
+colorID: 0
+position: -336,3286
+---
+Willow: "...Tolerable."
+
+[[Day 2 - Willow Leaving]]
+===
+title: So not great, huh
+tags: 
+colorID: 0
+position: -755,3610
+---
+Willow: Well things could always be better. Its unrealistic to expect a large group of people to get along perfectly. 
+
+[[If you ever need to talk, you know where to find me.|If you ever need to talk]]
+[[Stay silent|Day 2 - Willow Leaving]]
+
+===
+title: Do you have any friends there?
+tags: 
+colorID: 0
+position: -477,3613
+---
+Willow: "Not particularly. I'm quite new and only an intern for a year at most so making friends is just a waste of all of our time."  
+
+[[If you ever need to talk, you know where to find me.|If you ever need to talk]]
+[[Stay silent|Day 2 - Willow Leaving]]
+
+===
+title: How do they treat you?
+tags: 
+colorID: 0
+position: -195,3621
+---
+Willow: As professionally as should be expected. Sometimes they give me tasks which no one else wants to do, but that's just par for the course of being an intern. 
+
+[[I see. At least you don't have one of THOSE coworkers. You know, the unpleasant kind that make you want to rip their face off.|I see. At least you don't]]
+[[So like walking three blocks to get coffee every morning?|So like walking three blocks]]
+===
+title: Day 2 - Willow Leaving
+tags: 
+colorID: 0
+position: 11,4710
+---
+Willow: Well I should be going, I have talked for long enough. I should get everyone their coffee while it's still hot. 
+PC: See you tommorrow then?
+Willow: Yes, see you then. 
+After our brief farewell, she turns and briskly walks out of the shop, slightly struggling to open the door while holding the five cups of her coworker's coffees.
+
+[[Day 2 - MC 3]]
+===
+title: I see. At least you don't
+tags: 
+colorID: 0
+position: -454,3993
+---
+All of a sudden the neutral expression Willow was wearing turns to a smile. An incredibly cold smile, with just a hint of malicious intent.
+Willow: "Yes... I am very glad to have no coworkers like that."
+...
+I think I may be on to something. 
+
+[[Day 2 - Willow Leaving]]
+===
+title: So like walking three blocks
+tags: 
+colorID: 0
+position: -111,3996
+---
+
+Willow: ...
+Willow: Yes.
+
+[[Day 2 - Willow leaving]]
+===
+title: Is it hard being an intern
+tags: 
+colorID: 0
+position: -1061,3612
+---
+Willow: Sometimes. As I'm the lowest there, others sometimes give me tasks which no one else wants to do.
+
+[[So like walking three blocks to get coffee every morning?|So like walking three blocks]]
+[[Does it stress you out?|Does it stress you out]]
+===
+title: Does it stress you out
+tags: 
+colorID: 0
+position: -1352,3616
+---
+Willow: "All jobs are stressful in some way or another. It's nothing I can't handle."
+ 
+[[Are you sure?|Are you sure?]]
+[[If you ever need to talk, you know where to find me.|If you ever need to talk]]
+===
+title: Are you sure?
+tags: 
+colorID: 0
+position: -1590,3915
+---
+Willow: Yes, I'm pretty sure. But thank you for your concern.
+
+[[Day 2 - Willow Leaving]]
+===
+title: If you ever need to talk
+tags: 
+colorID: 0
+position: -1234,3915
+---
+Willow: I'm sure I'll be fine, but thank you for the offer. 
+
+[[Day 2 - Willow Leaving]]
+===
+title: Day 2 - MC 3
+tags: 
+colorID: 0
+position: 11,5003
+---
+Once Willow is far enough down the block to be out of sight my mind drifts back to those unforgettable images. What could have driven someone to do something like that? Rage, hatred, stress, jealousy? Or are they just sick in the head? But one thing is for certain, no normal person could do that. And to get to the bottom of this mystery I'm going to need to break their facade and expose the true monster hiding inside. There are two possible ways to do this: Either become their friend or the target of their hatred. Serve them good coffee and have a polite and friendly conversation to gain their trust and bait them into revealing more about themselves or serving them god awful coffee, being rude, and making them so frustrated with me that they show their true colors. Thinking about it logically, the killer could be so cautious and good at lying that they never spill anything while the second option could make me the next victim of their killing spree. Am I willing to take that risk? The police seem to have no evidence on them so I'm probably going to make them confess in some way and record it. It's a dangerous game, on  teetering on the tightrope of life above the endless abyss that if death. One wrong choice, one careless answer could get me killed. 
+[[Go to next node |Day 2 - MC 4]]
+===
+title: Day 2 - MC 4
+tags: 
+colorID: 0
+position: 14,5276
+---
+Once again that oh-so familliar sound sends a chill down my spine. The soft jingle of the door opening has become the evening bell of the reaper. Another familliar face. Time to get to work.  
+In walks Michael, an entomology studient at the local university. I used to think that the reserved Michael wouldn't hurt a fly- well thats still probably true he WOULDN'T hurt a fly, but I'm not so sure anymore that he wouldn't kill a person. Is Michael's formetly endearing awkwardness just social anxiety or a sign of something much more sinister?  
+Michael: Mornin'
+Good morning, the same as usual?
+*suspicous glare*
+[[Go to next node |good morning, the same as usual]]
+[[Go to next node |suspicious glare]]
+===
+title: Good morning, the same as usual
+tags: 
+colorID: 0
+position: -528,6097
+---
+Michael: Yep. A chai latte, no sugar. 
+[[Go to next node |Michael 2 - Good Coffee]]
+[[Go to next node |Michael 2 - Bad Coffee]]
+===
+title: suspicious glare
+tags: 
+colorID: 0
+position: 309,6084
+---
+Michael *glancing away*: Oh... alright... um... a chai latte with no sugar.
+[[Go to next node |Michael 2 - Good Coffee]]
+[[Go to next node |Michael 2 - Bad Coffee]]
+===
+title: Michael 2 - Good Coffee
+tags: 
+colorID: 0
+position: -260,6451
+---
+I walk over to the table Michael is sitting at and hand him his coffee. Being the typical college student he immidiately chuggs down a large gulp without even waiting for it to cool. Is this some special serial killer power? Being able to drink scalding hot coffee? 
+I watch in somewhat horrific amazement as he downs the whole thing without taking a breath. Well there goes my excuse to talk to him. I've gotta keep him here somehow to interrogate him. 
+Got somewhere to be?
+So how about bugs, huh. 
+[[Go to next node |Got somewhere to be]]
+[[Go to next node |so how about bugs, huh]]
+===
+title: Michael 2 - Bad Coffee
+tags: 
+colorID: 0
+position: 1009,6384
+---
+I walk over to the table Michael is sitting at and hand him his coffee. Being the typical college student he immidiately chuggs down a large gulp without even waiting for it to cool. Is this some special serial killer power? Being able to drink scalding hot coffee? 
+After a few seconds a grimace comes across his face, clearly the flavor isn't his cup of tea - or coffee...
+[[Go to next node |Day 2 - Michael 3]]
+===
+title: Day 2 - Michael 3
+tags: 
+colorID: 0
+position: 982,6688
+---
+Michael: Oh thanks... its great... yum...
+He takes another swig, clearly forcing himself. I feel kind of bad, but I have to investigate.
+You seem uncomfortable. 
+*slams fist on table* Where were you and what were you doing two nights ago? 
+[[Go to next node |You seem uncomfortable]]
+[[Go to next node |Slams fist on table]]
+===
+title: Got somewhere to be
+tags: 
+colorID: 0
+position: -888,6787
+---
+Michael: Yeah, I got a class in 15 minutes. Gotta go. See you tomorrow. 
+[[Go to next node |Day 2 - Michael 4]]
+===
+title: So how about bugs, huh
+tags: 
+colorID: 0
+position: -125,6776
+---
+Michael: What kinds of bugs do you mean? Apterygotas? Entognathas? Arachnids? Chilopodas? 
+[[Go to next node |Day 2 - MC 6]]
+===
+title: Day 2 - Michael 4
+tags: 
+colorID: 0
+position: -553,7054
+---
+Before I can get another word in he is already out the door. Well... that didn't work. What am I going to do if he has a class right after he comes in here every morning? Next time I have to hook him into staying. Entice him into conversation so he loses track of time. This feels somewhat malicious, purposefully making him late and possibly in trouble with the professor for my own purposes, but you gotta do what you gotta do. Catching a killer comes before morals. 
+[[Go to next node |Day 2 - MC 7]]
+===
+title: Day 2 - MC 6
+tags: 
+colorID: 0
+position: -141,7070
+---
+Too easy. Like a moth to a flame. Bringing up anyone's special interest is bound to lock them in conversation for at least 15 minutes. 
+There's been a particularly... deadly spider in this place recently. Been slaughtering other bugs left and right and I'm afraid it might bight me next. Know what to do about it? 
+Do you have a favorite? 
+[[Go to next node |Do you have a favorite]]
+[[Go to next node |There's been a particularly deadly spider]]
+===
+title: There's been a particularly deadly spider
+tags: 
+colorID: 0
+position: -253,7364
+---
+Michael's formerly dead eyes suddenly widen up; suddenly filled with an emotion I can't quite place. Excitement? Obsession? A hunger for the taste of death? An excited grin like that of a child finding a hidden stache of candy widens on his face.
+Michael: What kind is it? Describe it! Poisonous spiders are somewhat rare in this part of the country! 
+Michael: Oh but please don't kill it... Spiders perform a vital service to our ecosystem and keep other bug populations from multiplying out of control. So if you do find it use a glass and a piece of paper to take it outside!
+I suppose you're correct, I guess SOME bugs do need to be culled. 
+I'm more concerned about my own safety and the safety of everyone who enters this cafe. I'm going to kill it no matter what. 
+[[Go to next node |I suppose you're correct]]
+[[Go to next node |I'm more worried about my own safety]]
+===
+title: Do you have a favorite
+tags: 
+colorID: 0
+position: 93,7361
+---
+Michael: Slugs. Definitly slugs. Specifically the Prophysaon Andersoni, more commonly known as the reticulate taildropper. It is called that because one of the key characteristics of the genus is their ability to self-amputate and regrow their tails. Its found almost exclusivly in western North America, mostly California, Oregon, and Montana. They're different from the other species in their genus because of their diamond speckled pattering.  
+===
+title: I suppose you're correct
+tags: 
+colorID: 0
+position: -426,7671
+---
+Once again his expression flips 180 degrees, this time turning into a concerned frown. 
+Michael: From a purely ecological standpoint, some bugs must die so others can live. 
+Michael: But PLEASE be nice to them. Please don't spray around your shop and thoughtlessly kill them.
+Michael: They have lives to live just like you and I. 
+I unintentionally find myself nodding in agreement. 
+[[Go to next node |Day 2 - Michael 5]]
+ 
+===
+title: I'm more worried about my own safety
+tags: 
+colorID: 0
+position: -97,7671
+---
+The hairs on the back of my neck stand on end. Michael is staring at me like a hawk eyeing its cornered prey. If looks could kill, I'd be as dead as a snail after being stomped on by a particulary sadistic child. All the former friendliness was replaced by a resentment so sharp it could stab through whatever calm facade I tried to shield myself with. 
+Michael: ...You shouldn't do that. 
+Without even thinking I nod my head. A piece of my psyche buried far below impulse or reason was screaming out to me to agree with him. Is this what you call primal instinct? 
+Michael then starts walking backwards out towards the door; never even once breaking eye contact with me. 
+Alright then. 
+[[Go to next node |Day 2 - MC 7]]
+===
+title: You seem uncomfortable
+tags: 
+colorID: 0
+position: 690,7028
+---
+Sometimes the best tactic to shake a perp up is to point out what they think they're hiding. Now it could just be perfectly normal social awkwardness at a bad cup of coffee, but it could be the splinter that gets this nut to crack. 
+Michael: No.. no... not really... Just... tired... 
+Michael: Yeah, just tired. Nothing to do about you. Or anything you've done. 
+You feel guilty about something. 
+Anything I've done?
+[[Go to next node |You feel guilty about something]]
+[[Go to next node |Anything I've done?]]
+===
+title: Slams fist on table
+tags: 
+colorID: 0
+position: 1475,6970
+---
+Sometimes the best tactic with people like this is brute force; intimidation. Being so direct could be a risk, but dancing around the question isn't going to get me anywhere. 
+Michael: W-why are you asking this? It's nothing of importance. Research. For school. 
+He's visibly uncomfortable. I've clearly stumbled across something of interest. 
+What kind of research?
+For what class?
+[[Go to next node |What kind of research]]
+[[Go to next node |For what class]]
+===
+title: You feel guilty about something
+tags: 
+colorID: 0
+position: 520,7303
+---
+I know what he's talking about. I know that he feels guilty about lying to me. But by pushing this bluff I have weaponized the most potent unspoken rule of polite conversation: not pointing out other's mistakes. 
+Michael: ...
+Michael: .....
+After a silence that was just long enough to be awkward, he replied
+Michael: You're coffee... wasn't to my taste. Sorry. I'm sorry. 
+Is that all?
+It's okay, I understand. 
+[[Go to next node |Is that all]]
+[[Go to next node |It's okay I understand]]
+===
+title: Anything I've done?
+tags: 
+colorID: 0
+position: 1023,7328
+---
+I know what he's talking about. I know what I've done. But by pushing this bluff I have weaponized the most potent unspoken rule of polite conversation: not pointing out other's mistakes. 
+Michael:It's nothing really, really! It's my fault, mine! So it's okay. 
+Michael: It's okay. So you can drop it. Drop it... please... 
+PC: If you keep insisting it must be SOMETHING. 
+Michael: Um.. no.. really...
+PC: Don't lie to me. 
+PC: You can't hide your guilt. 
+Michael: It-
+Michael: It-
+Michael: It- was your coffee! It was bad! Really bad! I'm sorry...
+And in under 3.7 seconds after his confession Michael had already sprinted out the door.
+Well that was a waste of time. 
+[[Go to next node |Day 2 - MC 7]]
+===
+title: It's okay I understand
+tags: 
+colorID: 0
+position: 641,7595
+---
+I shouldn't push him. If I make things too awkward between us he might be more reluctant to talk to me or might even never come back. So play nice for now, good things come to those who wait after all. 
+Michael: Thanks... 
+All of a sudden I hear a phone beep. Michael's phone. He pulls it out and his eyes widen for a moment. 
+Michael: Well... the time...
+Then turning around not at all with the speed of someone who's just discovered he's late for class and walked out the door. 
+But as he leaves I couldn't help but notice his phone. 
+A black, disposable flip phone, just like the one I found. 
+Interesting, very interesting. 
+[[Go to next node |Day 2 - MC 7]]
+===
+title: Is that all
+tags: 
+colorID: 0
+position: 343,7590
+---
+Michael: Yes.. 
+Michael: Really. 
+Michael: Nothing.
+Michael: It's... not related to you... really...
+He takes a few steps back.
+Michael: I have to go.. Class.
+Not related to me, huh. I'll have to follow up on this later. 
+
+[[Go to next node |Day 2 - MC 7]]
+===
+title: What kind of research
+tags: 
+colorID: 0
+position: 1314,7323
+---
+Michael: Entomology stuff. Nothing that you would understand really. 
+PC: I know more than you think. 
+Michael: It doesn't really matter anyway. It's nothing that you would care about.
+PC: Tell. Me. 
+Michael: I- I was-
+I cross my arms and glare at him, taking a step forward. 
+Michael: Just.. collecting specimens. That's all. All I saw was interesting bugs. 
+As he looks up at me, he notices the clock I had placed on the wall behind me. For a moment a look of slight panic crosses his face, and without barely a word he turns around and speedwalks out of the shop. 
+In his hurry something fell out of his bag, tumbling onto the floor and under a table. 
+It looked like a crunched up napkin. As I open it up right in the middle is a spot of blood. 
+[[Go to next node |Day 2 - MC 7]]
+===
+title: For what class
+tags: 
+colorID: 0
+position: 1671,7318
+---
+He pauses to think for a moment, looking down at the floor. 
+Michael: ...Independent study. 
+Purposefully being vague. He's hiding something alright.
+PC: Elaborate. 
+Michael: Gathering specimens... I guess... 
+PC: Where? 
+After briefly glancing down at the floor he answered, 
+Michael: All over. No place in particular. 
+All of a sudden I hear a phone beep. Michael's phone. He pulls it out and his eyes widen for a moment. 
+Then turning around not at all with the speed of someone who's just discovered he's late for class and walked out the door. 
+But as he leaves I couldn't help but notice his phone. 
+A black, disposable flip phone, just like the one I found. 
+Interesting, very interesting. 
+[[Go to next node |Day 2 - MC 7]]
+===
+title: Day 2 - Michael 5
+tags: 
+colorID: 0
+position: -426,7949
+---
+All of a sudden I hear a phone beep. Michael's phone. He pulls it out and his eyes widen for a moment. 
+Then turning around not at all with the speed of someone who's just discovered he's late for class and walked out the door. 
+But as he leaves I couldn't help but notice his phone. 
+A black, disposable flip phone, just like the one I found. 
+Interesting, very interesting. 
+[[Go to next node |Day 2 - MC 7]]
+===
+title: Day 2 - MC 7
+tags: 
+colorID: 0
+position: 532,8269
+---
+As the ringing of the shop bell slowly fades into silence, I once again start cleaning the shop. The monotonous actions lull me into a trance; my thoughts entrapping me. Before I didn't think of Michael as a dangerous person. He seemed normal, a little awkward at times but besides that he was a comfortable person to be around. 
+The way the bodies were laying on the groud; bleeding, broken, thrown away like an unwanted piece of litter resembled a bug crushed by the heel of a boot. Killed and left to rot, like their lives were of no importance. 
+If I keep going will I end up like that? A worthless being exterminated at the whim of one much stronger? 
+It is really none of my buisness. I didn't know any of the people that were killed. They might leave me alone if I don't investigate any further. I don't have to be involved. I'm not a detective, it's not my job to figure this out. If I were sane I would just turn the phone in, forget the whole thing, and move on with my life. 
+No. It's too late to turn back now; I'm past the point of no return. Ever since I found that phone I've been involved.
+It's my buisness now. 
+Well enough of that, gotta get back to work. I should start preparing for the next customer. Let's see Willow and Michael have already came, so the next would be- 
+Oh, speak of the devil. 
+Richard: Good morning. 
+Ah yes, my third regular customer of the morning is Richard. Like Michael he is also a student at the local university. The typical honors student: straight-laced, intelligent, and just the right amount of friendly to be polite but not awkward, however even his thick glasses can't hide the bags under his eyes. Could he be hiding a cold-blooded killer behind that ideal persona I wonder? 
+Good morning, Richard. How many shots of expresso do you want today?
+Another late night? 
+[[Go to next node |Good Morning Richard]]
+[[Go to next node |Another late night?]]
+===
+title: Good Morning Richard
+tags: 
+colorID: 0
+position: 319,9131
+---
+Richard: I'll only take one shot today, haha. 
+Being an engineering major, he has a lot of time intensive projects that involve him staying up late. The amount of expresso shots usually corresponds to how much sleep he got the night before. 
+Ever since he ordered five shots in a single cup sometime last week it's become a running joke between us of how many expresso shots he'll order.
+MC: Alright I'll get right on that.
+===
+title: Another late night?
+tags: 
+colorID: 0
+position: 766,9124
+---
+Richard: Not really, there's been a break since our last project so I've had a little down time for the past few days. 
+MC: Well then what'll it be? 
+Richard: Black coffee with just one expresso shot. 
+Mc: I'll get right on that then. 
